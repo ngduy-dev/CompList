@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formadddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formadddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formadddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formadddepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formupdatechecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formupdatechecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formupdatechecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formupdatechecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formresetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formqrcodedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formqrcodedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formemployeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formemployeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formchecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formchecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formaddchecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formaddchecklistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|d:\\nam_3_hki\\cnpm\\project\\finalproject\\version1.0_final\\finalproject\\views\\formaddchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC683D5E-7304-4551-A875-9D540BD14C83}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\formaddchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddDepartment.cs",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddDepartment.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddDepartment.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddDepartment.cs",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddDepartment.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwLoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:21:10.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDepartment.cs",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDepartment.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormDepartment.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDepartment.cs",
+              "RelativeToolTip": "FinalProject\\Views\\FormDepartment.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAEwOcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:15:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUser.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormUser.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUser.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:08:26.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormLogin.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:07:18.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormInformation.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormInformation.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormInformation.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormInformation.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:07:16.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormHome.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormHome.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormHome.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:07:12.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormEmployeeInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormEmployeeInfo.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormEmployeeInfo.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormEmployeeInfo.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormEmployeeInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:07:10.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormEmployee.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormEmployee.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:07:06.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDepartment.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDepartment.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormDepartment.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDepartment.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:59.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormDashboard.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:54.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormChecklistItem.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormChecklistItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormChecklistItem.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormChecklistItem.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormChecklistItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:47.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormChecklist.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormChecklist.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormChecklist.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormChecklist.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormChecklist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:44.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormBoard.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormBoard.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormBoard.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:38.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAddUser.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddUser.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddUser.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddUser.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:36.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddEmployee.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddEmployee.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddEmployee.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:35.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddDepartment.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddDepartment.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddDepartment.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddDepartment.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:34.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormAddChecklistItem.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddChecklistItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddChecklistItem.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddChecklistItem.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddChecklistItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:25.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormAddChecklist.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddChecklist.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormAddChecklist.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormAddChecklist.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormAddChecklist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:06:22.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormUpdateChecklistItem.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUpdateChecklistItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormUpdateChecklistItem.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUpdateChecklistItem.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormUpdateChecklistItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:05:44.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormUpdateChecklist.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUpdateChecklist.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormUpdateChecklist.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormUpdateChecklist.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormUpdateChecklist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:04:32.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormResetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormResetPassword.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormResetPassword.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormResetPassword.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormResetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:04:19.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormReport.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormReport.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormReport.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormReport.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:03:31.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormQRCodeDisplay.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormQRCodeDisplay.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormQRCodeDisplay.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormQRCodeDisplay.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormQRCodeDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:03:12.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\FormMenu.cs",
+              "ToolTip": "D:\\Nam_3_HKI\\CNPM\\Project\\FinalProject\\Version1.0_Final\\FinalProject\\Views\\FormMenu.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Views\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:01:03.658Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

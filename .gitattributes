@@ -1,0 +1,4 @@
+FinalProject/bin/Debug/FinalProject.exe filter=lfs diff=lfs merge=lfs -text
+FinalProject/obj/Debug/FinalProject.exe filter=lfs diff=lfs merge=lfs -text
+FinalProject/obj/Debug/FinalProject.Properties.Resources.resources filter=lfs diff=lfs merge=lfs -text
+FinalProject/Resources/video.gif filter=lfs diff=lfs merge=lfs -text
