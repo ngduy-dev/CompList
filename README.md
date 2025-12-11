@@ -61,4 +61,4 @@ Dự án được chia theo mô hình nhiều lớp:
 
 ### 1. Clone project
 ```bash
-git clone https://github.com/<your_repo>/CompList.git
+git clone https://github.com/quocduy1234231/CompList.git
